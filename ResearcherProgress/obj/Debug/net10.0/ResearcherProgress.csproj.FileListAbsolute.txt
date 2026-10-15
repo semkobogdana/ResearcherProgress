@@ -1,0 +1,14 @@
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.AssemblyInfoInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.AssemblyInfo.cs
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.csproj.CoreCompileInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\bin\Debug\net10.0\ResearcherProgress.exe
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\bin\Debug\net10.0\ResearcherProgress.deps.json
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\bin\Debug\net10.0\ResearcherProgress.runtimeconfig.json
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\bin\Debug\net10.0\ResearcherProgress.dll
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\bin\Debug\net10.0\ResearcherProgress.pdb
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.dll
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\refint\ResearcherProgress.dll
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.pdb
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ResearcherProgress.genruntimeconfig.cache
+C:\Users\Mouse\OneDrive\Desktop\ResearcherProgress\obj\Debug\net10.0\ref\ResearcherProgress.dll
